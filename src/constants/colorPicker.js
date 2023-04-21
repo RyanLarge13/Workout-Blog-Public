@@ -1,0 +1,17 @@
+export default [
+  { color: "#ff3333" },
+  { color: "#ff9900" },
+  { color: "#ffff66" },
+  { color: "#66ff66" },
+  { color: "#33ff33" },
+  { color: "#66ffff" },
+  { color: "#3333ff" },
+  { color: "#00ffff" },
+  { color: "#9900ff" },
+  { color: "#9900cc" },
+  { color: "#ff0099" },
+  { color: "#ff00ff" },
+  { color: "#000" },
+  { color: "#eee" },
+  { color: "#fff" },
+];
